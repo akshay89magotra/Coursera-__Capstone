@@ -17,8 +17,7 @@ import numpy as np
 
 ```python
 # 4. Print the following the statement: Hello Capstone Project Course!
-print("Hello Caps# 2. Import the pandas library as pd
-import pandas as pdtone Project Course!")
+print("Hello Capstone Project Course!")
 ```
 
     Hello Capstone Project Course!
